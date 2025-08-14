@@ -74,7 +74,7 @@ dependencies = [
  "diffy",
  "env_logger",
  "futures",
- "hyper 0.14.27",
+ "hyper 0.14.32",
  "lazy_static",
  "log",
  "pulldown-cmark",
@@ -545,9 +545,9 @@ checksum = "9a3a5bfb195931eeb336b2a7b4d761daec841b97f947d34394601737a7bba5e4"
 
 [[package]]
 name = "hyper"
-version = "0.14.27"
+version = "0.14.32"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ffb1cfd654a8219eaef89881fdb3bb3b1cdc5fa75ded05d6933b2b382e395468"
+checksum = "41dfc780fdec9373c01bae43289ea34c972e40ee3c9f6b3c8801a35f35586ce7"
 dependencies = [
  "bytes",
  "futures-channel",
